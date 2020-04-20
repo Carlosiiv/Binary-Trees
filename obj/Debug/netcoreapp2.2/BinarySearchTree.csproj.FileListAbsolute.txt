@@ -1,0 +1,11 @@
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.deps.json
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.runtimeconfig.json
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.dll
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.pdb
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.AssemblyInfo.cs
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.dll
+C:\Users\Carlo\Documents\Coding_Dojo\c\csharp\datastruct\BST\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.pdb
